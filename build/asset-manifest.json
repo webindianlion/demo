@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webindianlion/react-website-porfolio/static/css/main.d0acee29.chunk.css",
+    "main.js": "/webindianlion/react-website-porfolio/static/js/main.f7e5818e.chunk.js",
+    "main.js.map": "/webindianlion/react-website-porfolio/static/js/main.f7e5818e.chunk.js.map",
+    "runtime-main.js": "/webindianlion/react-website-porfolio/static/js/runtime-main.1727a903.js",
+    "runtime-main.js.map": "/webindianlion/react-website-porfolio/static/js/runtime-main.1727a903.js.map",
+    "static/js/2.5c20e2d1.chunk.js": "/webindianlion/react-website-porfolio/static/js/2.5c20e2d1.chunk.js",
+    "static/js/2.5c20e2d1.chunk.js.map": "/webindianlion/react-website-porfolio/static/js/2.5c20e2d1.chunk.js.map",
+    "index.html": "/webindianlion/react-website-porfolio/index.html",
+    "precache-manifest.af768690e842e252c33965b1c826035e.js": "/webindianlion/react-website-porfolio/precache-manifest.af768690e842e252c33965b1c826035e.js",
+    "service-worker.js": "/webindianlion/react-website-porfolio/service-worker.js",
+    "static/css/main.d0acee29.chunk.css.map": "/webindianlion/react-website-porfolio/static/css/main.d0acee29.chunk.css.map",
+    "static/js/2.5c20e2d1.chunk.js.LICENSE": "/webindianlion/react-website-porfolio/static/js/2.5c20e2d1.chunk.js.LICENSE",
+    "static/media/naafi_photo.png": "/webindianlion/react-website-porfolio/static/media/naafi_photo.680982e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1727a903.js",
+    "static/js/2.5c20e2d1.chunk.js",
+    "static/css/main.d0acee29.chunk.css",
+    "static/js/main.f7e5818e.chunk.js"
+  ]
+}
